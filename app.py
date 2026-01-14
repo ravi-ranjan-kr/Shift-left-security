@@ -26,6 +26,7 @@ def connect():
 # # 2. Generic high-entropy secret
 # # Most scanners catch high-entropy strings assigned to 'secret' or 'token'
 
+
 # # 3. Connection String with Credentials
 # DATABASE_URL = "postgres://admin:HardCodedPassword123@localhost:5432/mydb"
 
